@@ -1,8 +1,6 @@
-# p5js-L12-vector-fields-particle-systems-math-roses
+# Vector Fields + Particle Systems + Math Roses
 
-## Vector Fields + Particle Systems + Math Roses
-
-### Creative coding experiments with p5.js framework
+## Creative coding experiments with p5.js framework
 
 The following library is necessary for these scripts to work: p5.min.js
 https://github.com/processing/p5.js
