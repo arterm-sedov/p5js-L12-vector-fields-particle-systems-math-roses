@@ -16,11 +16,14 @@ Mouse movement influences the vector field.
 Also experiment with the following parameters on particles.js:
 
 In the Particle class constructor:
-		this.n = int(random(1,9));
-		this.d = int(random(1,9));
-		this.isRespectBounds = false;
-		this.maxSpeed = 5;
-		this.radius = 15;
+
+	this.n = int(random(1,9));
+	this.d = int(random(1,9));
+	this.isRespectBounds = false;
+	this.maxSpeed = 5;
+	this.radius = 15;
+
 In the Particle class drawRose function:
-    scale(1)
-    strokeWeight(1)
+
+	scale(1)
+	strokeWeight(1)
