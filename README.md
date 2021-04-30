@@ -13,7 +13,7 @@ https://github.com/zenozeng/p5.js-svg
 
 Mouse movement influences the vector field.
 
-Also experiment with the following parameters on particles.js:
+Also experiment with the following parameters in particles.js:
 
 In the Particle class constructor:
 
